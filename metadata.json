@@ -2,11 +2,11 @@
     "name": "FROG",
     "symbol": "FROG",
     "description": "Solana meme coin 🐸",
-    "image": "https://raw.githubusercontent.com/jiwoon608/solana-meme-assets/main/logo.png",
+    "image": "https://github.com/jiwoon608/solana-meme-assets/raw/main/logo.png",
     "properties": {
       "files": [
         {
-          "uri": "https://raw.githubusercontent.com/jiwoon608/solana-meme-assets/main/logo.png",
+          "uri": "https://github.com/jiwoon608/solana-meme-assets/raw/main/logo.png",
           "type": "image/png"
         }
       ],
