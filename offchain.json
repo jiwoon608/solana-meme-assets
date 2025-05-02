@@ -1,0 +1,17 @@
+{
+    "name": "MyMemeToken",
+    "symbol": "MMT",
+    "description": "Just a meme token on Devnet 🐸",
+    "image": "https://raw.githubusercontent.com/jiwoon608/solana-meme-assets/main/logo.png",
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/jiwoon608/solana-meme-assets/main/logo.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
